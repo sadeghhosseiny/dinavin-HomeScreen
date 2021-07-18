@@ -12,7 +12,7 @@
   max-width: 235px;
   height: 270px;
   border-radius: 10px;
-  background-color: cornflowerblue;
+  background-color: white;
   position: relative;
 }
 
@@ -23,8 +23,8 @@
   top: 210px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  background-color: maroon;
-  color: rgb(255, 249, 249);
+  background-color: white;
+  color: black;
 }
 
 .image {

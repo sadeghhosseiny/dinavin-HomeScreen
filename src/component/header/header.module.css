@@ -39,14 +39,24 @@
   padding: 0px 20px;
 }
 
-/* @media (max-width: 500px) {
+@media (max-width: 810px) {
   .tel {
     display: none;
   }
-} */
+}
+@media (max-width: 700px) {
+  .exitFromMap {
+    display: none;
+  }
+}
+@media (max-width: 600px) {
+  .chooseVhiecle {
+    display: none;
+  }
+}
 
 .menuLine {
-  width: 100%;
+  width: 93%;
   max-width: 565px;
   position: absolute;
   height: 2px;
