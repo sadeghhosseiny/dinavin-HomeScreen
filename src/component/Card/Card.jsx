@@ -5,7 +5,7 @@ function Card() {
     return (
         <div className={styles.cardContainer}>
             <div className={styles.card}>
-                <div className={styles.info}>
+                <div className={styles.image}>
                     <h3>Image</h3>
                 </div>
                 <div className={styles.cardFooter}>
@@ -13,7 +13,7 @@ function Card() {
                 </div>
             </div>
             <div className={styles.card}>
-                <div className={styles.info}>
+                <div className={styles.image}>
                     <h3>Image</h3>
                 </div>
                 <div className={styles.cardFooter}>
@@ -21,7 +21,7 @@ function Card() {
                 </div>
             </div>
             <div className={styles.card}>
-                <div className={styles.info}>
+                <div className={styles.image}>
                     <h3>Image</h3>
                 </div>
                 <div className={styles.cardFooter}>
@@ -29,7 +29,7 @@ function Card() {
                 </div>
             </div>
             <div className={styles.card}>
-                <div className={styles.info}>
+                <div className={styles.image}>
                     <h3>Image</h3>
                 </div>
                 <div className={styles.cardFooter}>
@@ -37,7 +37,7 @@ function Card() {
                 </div>
             </div>
             <div className={styles.card}>
-                <div className={styles.info}>
+                <div className={styles.image}>
                     <h3>Image</h3>
                 </div>
                 <div className={styles.cardFooter}>
@@ -45,7 +45,7 @@ function Card() {
                 </div>
             </div>
             <div className={styles.card}>
-                <div className={styles.info}>
+                <div className={styles.image}>
                     <h3>Image</h3>
                 </div>
                 <div className={styles.cardFooter}>
@@ -53,7 +53,7 @@ function Card() {
                 </div>
             </div>
             <div className={styles.card}>
-                <div className={styles.info}>
+                <div className={styles.image}>
                     <h3>Image</h3>
                 </div>
                 <div className={styles.cardFooter}>
@@ -62,7 +62,7 @@ function Card() {
             </div>
             <div className={styles.card}>
 
-                <div className={styles.info}>
+                <div className={styles.image}>
                     <h3>Image</h3>
                 </div>
                 <div className={styles.cardFooter}>
@@ -70,7 +70,7 @@ function Card() {
                 </div>
             </div>
             <div className={styles.card}>
-                <div className={styles.info}>
+                <div className={styles.image}>
                     <h3>Image</h3>
                 </div>
                 <div className={styles.cardFooter}>
