@@ -1,0 +1,57 @@
+.header {
+  padding: 8px 12px;
+  display: flex;
+}
+
+.brandLine {
+  width: 100%;
+  max-width: 158px;
+  height: 6px;
+  background-color: #ffcf02;
+  outline: none;
+  border: none;
+}
+
+.brand {
+  margin-right: auto;
+}
+
+.mgaWord {
+  color: #ffcf02;
+}
+
+.wordsContainer {
+  display: flex;
+}
+
+.words {
+  margin: 3px 6px;
+}
+
+.headerMenu {
+  display: flex;
+  margin-left: auto;
+  padding: 10px 20px;
+  position: relative;
+}
+
+.headerMenu > p {
+  padding: 0px 20px;
+}
+
+/* @media (max-width: 500px) {
+  .tel {
+    display: none;
+  }
+} */
+
+.menuLine {
+  width: 100%;
+  max-width: 565px;
+  position: absolute;
+  height: 2px;
+  top: 45px;
+  outline: none;
+  border: none;
+  background-color: grey;
+}
