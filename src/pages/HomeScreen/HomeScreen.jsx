@@ -1,7 +1,7 @@
 import React from 'react';
-import Card from '../../component/Card/Card';
-import Header from '../../component/header/header';
-import SearchInput from '../../lib/SearchInput/SearchInput';
+import Card from '../../component/Card';
+import Header from '../../component/header';
+import SearchInput from '../../lib/SearchInput';
 
 function HomeScreen() {
     return (
